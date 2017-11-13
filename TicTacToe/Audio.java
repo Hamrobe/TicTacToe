@@ -1,7 +1,7 @@
 /**
  * Write a description of class Audio here.
  * 
- * @author Robert Hammond
+ * @author Robert Hammonddgas
  * @version (a version number or a date)
  */
 public class Audio  
